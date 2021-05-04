@@ -1,1 +1,1 @@
-Use Algolia search in gatsby blog project
+Using Algolia search in gatsby blog project
